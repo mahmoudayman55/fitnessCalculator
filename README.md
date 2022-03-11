@@ -1,2 +1,2 @@
 # fitnessCalculator
-flutter app that calculate daily body needs of basic nutrients 
+my first flutter app that calculate daily body needs of basic nutrients 
